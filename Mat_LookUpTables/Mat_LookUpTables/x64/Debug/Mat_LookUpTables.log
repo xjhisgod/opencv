@@ -1,0 +1,7 @@
+﻿  Mat_LUT.cpp
+c:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Mat_LookUpTables.vcxproj -> E:\opencv\workspace\Mat_LookUpTables\x64\Debug\Mat_LookUpTables.exe
+  Mat_LookUpTables.vcxproj -> E:\opencv\workspace\Mat_LookUpTables\x64\Debug\Mat_LookUpTables.pdb (Full PDB)

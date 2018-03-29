@@ -1,0 +1,8 @@
+﻿  M_Step.cpp
+c:\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv\workspace\m_step\m_step\m_step.cpp(36): warning C4101: 'p_address': unreferenced local variable
+  M_step.vcxproj -> E:\opencv\workspace\M_step\x64\Debug\M_step.exe
+  M_step.vcxproj -> E:\opencv\workspace\M_step\x64\Debug\M_step.pdb (Full PDB)
